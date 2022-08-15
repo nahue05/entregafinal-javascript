@@ -1,0 +1,8 @@
+[
+{"Marca": "Chevrolet","Precio": "10 USD","Imagen": "./imagenes/chevrolet.jpeg"},
+{"Marca": "Audi","Precio": "30 USD","Imagen": "./imagenes/audi.jpg"},
+{"Marca": "Bmw","Precio": "25 USD","Imagen": "./imagenes/bmw.jpg"},
+{"Marca": "Citroen","Precio ": "10 USD","Imagen": "./imagenes/citroen.jpg"},
+{"Marca": "Susuki","Precio": "7 USD","Imagen": "./imagenes/susuki.jpg"},
+{"Marca": "Lexus","Precio": "20 USD","Imagen": "./imagenes/lexus.jpg"}
+]
